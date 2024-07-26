@@ -1,0 +1,9 @@
+*gitbash works on unix based system.
+#git status:it is used to check the status of git whether there are any tracked file or not.
+#git --version:tells version of git.
+#git init:to make a folder a git repository.
+#git add . :it transfer files from working directory to staging area.(refer working.png)
+#git commit -m "Version 1":it commit the changes. Note:"Version 1" is a descriptive message that summarizes the changes made in this commit. It's like a label or a title for the commit.
+#git log:it tells who made the changes.It display the details of person who made change.
+#git config --global user.name "Sumit":This command will change/set your name for all files globally.If we do not write --global,it will set name for this repository only.
+#git config --global user.email "Sumitbhatia900@gmail.com":This command will change/set your name for all files globally. 

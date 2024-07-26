@@ -1,0 +1,6 @@
+docs.chaicode.com
+#git:
+it is a software used for version control. Just like game,it contain some checkpoints in code.
+->git is a software and GitHub is a tool to host it.
+
+Version-2
